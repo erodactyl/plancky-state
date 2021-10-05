@@ -1,8 +1,17 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "keywords": [
+    "state",
+    "management",
+    "store",
+    "redux",
+    "reactive",
+    "effects",
+    "async"
+  ],
   "files": [
     "dist",
     "src"
